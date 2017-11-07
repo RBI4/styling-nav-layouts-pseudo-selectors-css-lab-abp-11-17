@@ -41,6 +41,9 @@ nav a:hover {
   color: #868e96;
 }
 
+#header a:visited {
+  text-decoration: underline;
+}
 main{
   margin-top: 20px;
 }
