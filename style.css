@@ -36,12 +36,12 @@ nav a:hover {
   color: #0056b3;
 }
 
-h3#header a{
+#header a{
   text-decoration: none;
   color: #868e96;
 }
 
-h3#header a:visited {
+#header a:visited {
   text-decoration: underline;
 }
 main{
