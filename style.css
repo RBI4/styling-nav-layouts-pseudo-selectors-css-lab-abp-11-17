@@ -41,7 +41,7 @@ nav a:hover {
   color: #868e96;
 }
 
-#headerlink a:visited {
+a#headerlink:visited {
   text-decoration: underline;
 }
 main{
